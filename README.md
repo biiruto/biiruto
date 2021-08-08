@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @biiruto
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently bachelor of science in ict student laikipia university
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 interested in machine learning
+- 🌱 currently bachelor of science in ict student laikipia university
+- 💞️ Ilooking to collaborate on data science projects
 - 📫 How to reach me +254740569489
 
 <!---
