@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @biiruto
+- am python backend developer
 - 👀 interested in machine learning
 - 🌱 currently bachelor of science in ict student laikipia university
 - 💞️ Ilooking to collaborate on data science projects
